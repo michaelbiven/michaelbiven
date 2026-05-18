@@ -26,6 +26,7 @@ I’ve gone through the early growing pains of scaling rails. And bare metal to 
 - Automation & AI Tooling (GitHub Actions, Agents, Local & Frontier LLMs, Context Loops)
 - Security & Compliance (policies, vulnerabilities, incident response, CMMC, CCPA, GDPR, PCI-DSS)
 
-[biven.org](https://biven.org)
+Site: `http://biven.org`
 
-[Email me](mailto:michael@biven.org)
+Email: `michael [at] biven.org`
+
